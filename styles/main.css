@@ -1,0 +1,26 @@
+/* Zachary Stair September 22, 2025 */
+nav ul {
+    background-color: aqua;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+section table tr:nth-child(even) {
+    background-color: blueviolet;
+}
+section img#tree_png {
+    width: 250px;
+    height: 250px;
+}
+section img#tree_jpg {
+    width: 250px;
+    height: 250px;
+}
+.bordered-image {
+    border: 2px solid red;
+}
